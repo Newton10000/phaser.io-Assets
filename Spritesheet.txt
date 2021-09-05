@@ -1,0 +1,36 @@
+colored balls: https://examples.phaser.io/assets/sprites/balls.png
+  Size: 102x17 Sprites: 6
+
+chick: https://examples.phaser.io/assets/sprites/chick.png
+  Size: 64x18 Sprites: 4
+
+colored diamonds: https://examples.phaser.io/assets/sprites/diamonds32x5.png
+  Size: 360x64 Sprites: 5
+
+smaller diamonds: https://examples.phaser.io/assets/sprites/diamonds32x24x5.png
+  Size: 160x24 Sprites: 5
+
+explosion: https://examples.phaser.io/assets/sprites/explosion.png
+  Size: 320x320 Sprites: 25
+
+helix: https://examples.phaser.io/assets/sprites/helix.png
+  Size: 233X30 Sprites: 8
+
+metalface: https://examples.phaser.io/assets/sprites/metalface78x92.png
+  Size: 312x92 Sprites: 4
+
+metal monster: https://examples.phaser.io/assets/sprites/metalslug_monster39x40.png
+  Size: 156x160 Sprites: 16
+
+pacman: https://examples.phaser.io/assets/sprites/pacman_by_oz_28x28.png
+  Size: 308x28  Sprites: 11
+
+snowflake: https://examples.phaser.io/assets/sprites/snowflakes.png
+  Size: 102x17  Sprites: 6
+
+Large snowflakes: https://examples.phaser.io/assets/sprites/snowflakes_large.png
+  Size: 384x64  Sprites: 6
+
+Space Invaders: https://examples.phaser.io/assets/sprites/x.png
+  Size: 660x320 Sprites: 6
+  

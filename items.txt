@@ -1,0 +1,33 @@
+block: https://examples.phaser.io/assets/sprites/block.png
+
+blue ball: https://examples.phaser.io/assets/sprites/blue_ball.png
+
+first aid: https://examples.phaser.io/assets/sprites/firstaid.png
+
+gem: https://examples.phaser.io/assets/sprites/gem.png
+
+melon: https://examples.phaser.io/assets/sprites/melon.png
+
+mushroom: https://examples.phaser.io/assets/sprites/mushroom.png
+
+1up mushroom: https://examples.phaser.io/assets/sprites/mushroom2.png
+
+blue orb: https://examples.phaser.io/assets/sprites/orb-blue.png
+
+green orb: https://examples.phaser.io/assets/sprites/orb-blue.png
+
+red orb: https://examples.phaser.io/assets/sprites/orb-red.png
+
+purple orb: https://examples.phaser.io/assets/sprites/purple_ball.png
+
+car: https://examples.phaser.io/assets/sprites/parsec.png
+
+pineapple: https://examples.phaser.io/assets/sprites/pineapple.png
+
+plane: https://examples.phaser.io/assets/sprites/plane.png
+
+spaceship: https://examples.phaser.io/assets/sprites/phaser-ship.png
+
+weird ball: https://examples.phaser.io/assets/sprites/shinyball.png
+
+slime: https://examples.phaser.io/assets/sprites/slime.png

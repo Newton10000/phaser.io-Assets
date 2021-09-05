@@ -1,0 +1,5 @@
+Master: https://examples.phaser.io/assets/sprites/master.png
+  size: 57x67
+
+Sonic: https://examples.phaser.io/assets/sprites/sonic_havok_sanity.png
+  size: 98x167

@@ -1,0 +1,6 @@
+
+bluemetal (128x32): https://examples.phaser.io/assets/sprites/bluemetal_32x32x4.png
+
+green (500x64): https://examples.phaser.io/assets/sprites/platform.png
+
+healthbar (300x30): https://examples.phaser.io/assets/sprites/vu.png

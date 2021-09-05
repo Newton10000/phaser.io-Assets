@@ -1,0 +1,25 @@
+blue particle: https://examples.phaser.io/assets/particles/blue.png
+
+green particle: https://examples.phaser.io/assets/particles/green.png
+
+red particle: https://examples.phaser.io/assets/particles/red.png
+
+white particle: https://examples.phaser.io/assets/particles/white.png
+
+yellow particle: https://examples.phaser.io/assets/particles/yellow.png
+
+bubble: https://examples.phaser.io/assets/particles/bubble.png
+
+big bubble: https://examples.phaser.io/assets/particles/bubble256.png
+
+cloud: https://examples.phaser.io/assets/particles/cloud.png
+
+gold: https://examples.phaser.io/assets/particles/gold.png
+
+leaf1: https://examples.phaser.io/assets/particles/leaf1.png
+
+leaf2: https://examples.phaser.io/assets/particles/leaf2.png
+
+leaf3: https://examples.phaser.io/assets/particles/leaf3.png
+
+snowflake: https://examples.phaser.io/assets/particles/snowflake.png
